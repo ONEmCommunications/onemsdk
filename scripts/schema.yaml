@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  version: v1.0
+  version: v2.0
   title: ONEm JSON response schema
   description: ''
 paths: {}
@@ -284,7 +284,6 @@ components:
       required:
       - type
       - name
-      - description
     FormMeta:
       title: FormMeta
       description: Configuration fields for a Form
