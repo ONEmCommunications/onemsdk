@@ -1,5 +1,12 @@
 # History
 
+## 0.8.0
+- JSON Schema:
+    - make `FormItem.description` optional
+- Bug fixes:
+    - `FormItem`s of type "form-menu" were having the options
+    duplicated in description
+
 ---
 ## 0.7.0
 - HTML API:
